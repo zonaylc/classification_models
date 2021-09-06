@@ -1,11 +1,12 @@
 # classification_models
 Weather predictoin with various classification methods in R.
-*Data Preparation
-*Correlation Exploration
-*Train-test Split
-*Model Fitting
-*Model Evaluation
-*Performance Comparison
+
+* Data Preparation
+* Correlation Exploration
+* Train-test Split
+* Model Fitting
+* Model Evaluation
+* Performance Comparison
 
 
 *Classifiers in this R script: logistic regression/ decision tree/ random forest/ bagged tree/ LDA/ QDA
